@@ -1,0 +1,15 @@
+D:\Repos\NICEParser\Parser.Test\obj\Debug\netcoreapp2.0\Parser.Test.csproj.CoreCompileInputs.cache
+D:\Repos\NICEParser\Parser.Test\obj\Debug\netcoreapp2.0\Parser.Test.AssemblyInfoInputs.cache
+D:\Repos\NICEParser\Parser.Test\obj\Debug\netcoreapp2.0\Parser.Test.AssemblyInfo.cs
+D:\Repos\NICEParser\Parser.Test\bin\Debug\netcoreapp2.0\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+D:\Repos\NICEParser\Parser.Test\bin\Debug\netcoreapp2.0\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+D:\Repos\NICEParser\Parser.Test\bin\Debug\netcoreapp2.0\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+D:\Repos\NICEParser\Parser.Test\bin\Debug\netcoreapp2.0\Parser.Test.deps.json
+D:\Repos\NICEParser\Parser.Test\bin\Debug\netcoreapp2.0\Parser.Test.runtimeconfig.json
+D:\Repos\NICEParser\Parser.Test\bin\Debug\netcoreapp2.0\Parser.Test.runtimeconfig.dev.json
+D:\Repos\NICEParser\Parser.Test\bin\Debug\netcoreapp2.0\Parser.Test.dll
+D:\Repos\NICEParser\Parser.Test\bin\Debug\netcoreapp2.0\Parser.Test.pdb
+D:\Repos\NICEParser\Parser.Test\bin\Debug\netcoreapp2.0\Parser.Core.dll
+D:\Repos\NICEParser\Parser.Test\bin\Debug\netcoreapp2.0\Parser.Core.pdb
+D:\Repos\NICEParser\Parser.Test\obj\Debug\netcoreapp2.0\Parser.Test.dll
+D:\Repos\NICEParser\Parser.Test\obj\Debug\netcoreapp2.0\Parser.Test.pdb

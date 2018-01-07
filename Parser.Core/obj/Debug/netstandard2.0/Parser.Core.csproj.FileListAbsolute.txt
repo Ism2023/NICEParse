@@ -1,0 +1,8 @@
+D:\Repos\NICEParser\Parser.Core\obj\Debug\netstandard2.0\Parser.Core.csproj.CoreCompileInputs.cache
+D:\Repos\NICEParser\Parser.Core\obj\Debug\netstandard2.0\Parser.Core.AssemblyInfoInputs.cache
+D:\Repos\NICEParser\Parser.Core\obj\Debug\netstandard2.0\Parser.Core.AssemblyInfo.cs
+D:\Repos\NICEParser\Parser.Core\bin\Debug\netstandard2.0\Parser.Core.deps.json
+D:\Repos\NICEParser\Parser.Core\bin\Debug\netstandard2.0\Parser.Core.dll
+D:\Repos\NICEParser\Parser.Core\bin\Debug\netstandard2.0\Parser.Core.pdb
+D:\Repos\NICEParser\Parser.Core\obj\Debug\netstandard2.0\Parser.Core.dll
+D:\Repos\NICEParser\Parser.Core\obj\Debug\netstandard2.0\Parser.Core.pdb
